@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.surowka.quizapp.iml" filepath="$PROJECT_DIR$/.idea/modules/com.surowka.quizapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.surowka.quizapp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.surowka.quizapp_main.iml" group="com.surowka.quizapp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.surowka.quizapp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.surowka.quizapp_test.iml" group="com.surowka.quizapp" />
+    </modules>
+  </component>
+</project>
